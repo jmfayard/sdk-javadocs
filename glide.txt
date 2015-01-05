@@ -1,0 +1,2 @@
+http://bumptech.github.io/glide/javadocs/latest/index.html
+http://bumptech.github.io/glide/javadocs/331/index.html
